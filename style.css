@@ -8,8 +8,8 @@ p {
     text-align: center;color: white;
 }
 .imagem {
-    width: 40%;
+    width: 50%;
     margin-left: 10%;
-    border-radius: 10px; color: red;
+    border-radius: 15px; color: red;
     position: absolute;
 }
