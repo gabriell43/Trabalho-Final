@@ -9,7 +9,7 @@ p {
 }
 .imagem {
     width: 40%;
-    margin-left: 50%;
+    margin-left: 10%;
     border-radius: 10px; color: red;
     position: absolute;
 }
